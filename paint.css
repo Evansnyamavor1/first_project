@@ -31,7 +31,12 @@ nav{
 #More{
     display: flex;
     gap: 20px;
+
 }
+#More img{
+    width: 15px;
+    height: 15px;
+} 
 #More a{
     text-decoration: none;
 }
@@ -287,12 +292,13 @@ footer h4{
     nav{
         width: 90%;
         margin: auto;
-       align-items:first baseline;
-       gap: 5px;
+        align-items: center;
+        gap: 5px;
         
     }
     #Name p{
         font-size: 30px;
+        padding-top: 0.3rem ;
 
     }
     #More p{
