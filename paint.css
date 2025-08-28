@@ -304,4 +304,8 @@ footer h4{
     #More p{
        font-size: 16px;
     }
+    #socials{
+        width: 80%;
+        margin: auto;
+    }
 }
