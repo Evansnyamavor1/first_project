@@ -280,10 +280,22 @@ footer h4{
 }
 /*mobile reponsiveness*/
 @media(max-width:640px) {
+    header{
+        padding: 0.3rem 0rem;
+       
+    }
     nav{
-        flex-direction: column;
+        width: 90%;
+        margin: auto;
+       align-items:first baseline;
+       gap: 5px;
+        
+    }
+    #Name p{
+        font-size: 30px;
+
     }
     #More p{
-       padding-top: 0.5rem;
+       font-size: 16px;
     }
 }
