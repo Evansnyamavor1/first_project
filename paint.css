@@ -254,7 +254,7 @@ footer{
 }
 footer h4{
     text-align: center;
-    padding: 2rem 0rem;
+    padding-bottom: 1rem;
     font-size: 30px;
 }
 #finish{
@@ -262,7 +262,8 @@ footer h4{
     justify-content: space-between;
     width: 80%;
     margin: auto;
-    height: 35vh;
+    height: 30vh;
+    padding-top: 1rem;
     
 }
 .info dd{
@@ -272,7 +273,7 @@ footer h4{
     width: 40%;
     display: flex;
     margin: auto;
-    padding-bottom: 2rem;
+    padding: 2rem 0rem;
 }
 #socials img{
     flex-grow: 1;
